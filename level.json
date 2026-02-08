@@ -1,0 +1,7 @@
+{
+  "cols": 10,
+  "rows": 10,
+  "tileSize": 44,
+  "mineCount": 12,
+  "padding": 40
+}
