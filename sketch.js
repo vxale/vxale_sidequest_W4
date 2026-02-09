@@ -175,7 +175,11 @@ function drawGrid() {
   noStroke();
   fill(235);
   textSize(14);
-  text(`Safe clicked: ${safeClicked} / ${safeTotal}`, width / 2, padding / 2);
+  text(
+    `Safe tiles clicked: ${safeClicked} / ${safeTotal}`,
+    width / 2,
+    padding / 2,
+  );
 }
 
 function drawIntroScreen() {
